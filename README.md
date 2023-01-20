@@ -23,8 +23,6 @@ Dans cette application nous avons ajouter les fonctionnalités suivantes :
 - Effacer un élément dans la chaîne d'opération (de la droite vers la gauche) 
 - Réinitialiser toute la chaîne d'opération
 - gestion des erreurs des inputs
-
-
 ![image](https://user-images.githubusercontent.com/47917618/213797660-d6203eeb-cfda-452d-b274-5ac9fac8ad39.png)
 
 
