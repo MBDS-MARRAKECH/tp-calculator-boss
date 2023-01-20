@@ -35,7 +35,8 @@ Dans cette application nous avons ajouter les fonctionnalités suivantes :
 
                 *EL MTOUGUI Hanane
                 *ELHARRAT Asmaa
-                *AOUATIF Allam
+                *ALLAM Aouatif
+                *EL MOUADDANE Aya
                 *ABANAI Hind
                 *LAGCHOUR ACHRAF
                 *FATENE Yassine
