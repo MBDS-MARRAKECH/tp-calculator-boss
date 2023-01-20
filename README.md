@@ -34,7 +34,6 @@ Dans cette application nous avons ajouter les fonctionnalités suivantes :
 -Réalisé par : 
 
                 *EL MTOUGUI Hanane
-                
                 *ELHARRAT Asmaa
                 *AOUATIF Allam
                 *ABANAI Hind
