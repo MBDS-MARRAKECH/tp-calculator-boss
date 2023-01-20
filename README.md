@@ -1,13 +1,15 @@
-# Améliorer une calculette
-Dans ce TP, vous allez reprendre une application existante et l'améliorer : 
-1) En rendant l'interface adaptée à toutes les résolutions d'écrans d'iPhone
-2) En ajoutant des fonctionnalités supplémentaires
+# Améliorer d'une Calculatrice en Swift
+Dans ce TP, nous avons réaliser les étapes suivantes :
+1) Rendre l'interface adaptée à toutes les résolutions d'écrans d'iPhone
+2) Ajout des fonctionnalités supplémentaires
 
-# Adapter l'interface de l'application
-Dans sa version actuelle, l'interface de l'application ne s'affiche pas correctement. Dans un premier temps, il faut mettre à jour l'interface graphique
-comme sur la capture d'écran ci-dessous. 
+# l'interface de l'application
+Dans ce Tp on a amélioré l'interface graphique de l'application comme s'est montré dans la capture d'écran ci-dessous
 
-![Alt text](Screenshot%202022-11-23%20at%2011.42.08.png?raw=true "Title")
+  ![Amosse1](https://user-images.githubusercontent.com/47917618/213797082-c3d28ee0-1f92-4804-87b5-fbd570efd14b.PNG)
+                    Interface graphique de l'application Calculatrice
+
+
 
 
 # Ajouter des fonctionnalités supplémentaires. 
