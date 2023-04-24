@@ -18,7 +18,7 @@ Dans ce Tp on a amélioré l'interface graphique de l'application comme s'est mo
 # Ajout des fonctionnalités supplémentaires. 
 Dans cette application nous avons ajouter les fonctionnalités suivantes : 
 - Multiplication 
-- Division entre 
+- Division  
 - Gérer la priorité des opérations en combinant plusieurs opérateurs dans une même opération (la priorité des opérations doit être codé par le groupe, ne pas utiliser de méthodes existantes)
 - Effacer un élément dans la chaîne d'opération (de la droite vers la gauche) 
 - Réinitialiser toute la chaîne d'opération
